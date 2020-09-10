@@ -1,16 +1,26 @@
 Introduction: Business Understanding
-The initial phase is to understand the project's objective from the business or application perspective. Then, you need to translate this knowledge into a machine learning problem with a preliminary plan to achieve the objectives.
+The initial phase is to understand the project's objective from the business or application perspective. Then, you need to translate this knowledge into a
+machine learning problem with a preliminary plan to achieve the objectives.
 
-The objective of this project is to predict the severity of an accident. If something could warn you, given maybe the weather and the road conditions, about how severe a potential accident would be, you might drive more carefully or perhaps change your travel plans. 
+The objective of this project is to predict the severity of an accident. If something could warn you, given maybe the weather and the road conditions, about 
+how severe a potential accident would be, you might drive more carefully or perhaps change your travel plans. 
 
 Audience: Stakeholders of an insurance company. 
 
 Problem: Insurance company is spending too much money of out their spending budget on car repairs (from insurees' car collisions).
 
-Collision insurance is a coverage that helps pay to repair or replace your car if it's damaged in an accident with another vehicle or object, such as a fence or a tree. Car insurance companies are responsible for paying money for car repairs when certain collision requirements are met. It is in the insurance company's best interest that cars do not get damaged or get damaged minimally, so that insurance companies do not need to put up the money for car repairs.
+Collision insurance is a coverage that helps pay to repair or replace your car if it's damaged in an accident with another vehicle or object, such as a fence 
+or a tree. Car insurance companies are responsible for paying money for car repairs when certain collision requirements are met. It is in the insurance 
+company's best interest that cars do not get damaged or get damaged minimally, so that insurance companies do not need to put up the money for car repairs.
 
-Insurance companies often offer lower insurance premiums to drivers who pass drivers' education courses. Because the companies recognise that educated drivers will cost the company less money overall, they offer incentive to drivers to participate in drivers' education courses. Insurance companies recognize that they benefit from drivers' education.
+Insurance companies often offer lower insurance premiums to drivers who pass drivers' education courses. Because the companies recognise that educated drivers 
+will cost the company less money overall, they offer incentive to drivers to participate in drivers' education courses. Insurance companies recognize that they
+benefit from drivers' education.
 
-Predictive analytics concerning the severity of car collisions can also benefit insurance companies. If drivers can get information about the severity of a potential car crash, drivers can make educated decisions. No sane driver wants to get into a crash and cause damage to either himself or his car. The more empowered a driver is about the driving conditions, the less likely it will be for insurance companies to be responsible for covering automobile collisions. 
+Predictive analytics concerning the severity of car collisions can also benefit insurance companies. If drivers can get information about the severity of a 
+potential car crash, drivers can make educated decisions. No sane driver wants to get into a crash and cause damage to either himself or his car. The more 
+empowered a driver is about the driving conditions, the less likely it will be for insurance companies to be responsible for covering automobile collisions. 
 
-Modeling car collision severity prediction and improving the model are critical to the effective performance of drivers for improved safety and less damage. In accident severity modeling, the input vectors are the characteristics of the accident, such as road and environment characteristics while the output vector is the corresponding class of accident severity.
+Modeling car collision severity prediction and improving the model are critical to the effective performance of drivers for improved safety and less damage. 
+In accident severity modeling, the input vectors are the characteristics of the accident, such as road and environment characteristics while the output vector 
+is the corresponding class of accident severity.

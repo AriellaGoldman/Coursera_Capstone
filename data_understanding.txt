@@ -1,9 +1,16 @@
 About the data
 
-This data set is about accident (car collisions) severity. This data includes all types of collisions. The data dates weekly from 2004 to present. The data has been collected from the Seattle Department of Transportation.
+This data set is about accident (car collisions) severity. This data includes all types of collisions. The data dates weekly from 2004 to present. The data has 
+been collected from the Seattle Department of Transportation.
 
-The data set contains information about car collisions concerning both external and internal aspects. External factors include weather, road conditions, light conditions, day of week and time of day. Internal factors include collision address type (ie alley, block, intersection), whether a driver was speeding, whether the collision was due to inattention, whether a driver was under the influence of alcohol or drugs. 
+The data set contains information about car collisions concerning both external and internal aspects. External factors include weather, road conditions, light 
+conditions, day of week and time of day. Internal factors include collision address type (ie alley, block, intersection), whether a driver was speeding, 
+whether the collision was due to inattention, whether a driver was under the influence of alcohol or drugs. 
 
-This data set contains 194673 rows. There are 37 attributes, some numeric and some categorical. Some attributes have missing data. The data set is labeled with the severity of the accident - "1" or "2" indicating property damage or injury, respectively. My assumption is that severity level 2 "injury" includes property damage. This is not a balanced labeled dataset. Metadata about the dataset can be found at https://s3.us.cloud-object-storage.appdomain.cloud/cf-courses-data/CognitiveClass/DP0701EN/version-2/Metadata.pdf.  
+This data set contains 194673 rows. There are 37 attributes, some numeric and some categorical. Some attributes have missing data. The data set is labeled with
+the severity of the accident - "1" or "2" indicating property damage or injury, respectively. My assumption is that severity level 2 "injury" includes property 
+damage. This is not a balanced labeled dataset. Metadata about the dataset can be found at 
+https://s3.us.cloud-object-storage.appdomain.cloud/cf-courses-data/CognitiveClass/DP0701EN/version-2/Metadata.pdf.  
 
-Use KNN/Decision Tree/Random Forest/Logistic Regression classification algorithms from sklearn to predict the accident severity. Categorical data will be treated with Pandas get_dummies method. Rows with missing values will be dropped.
+Use KNN/Decision Tree/Random Forest/Logistic Regression classification algorithms from sklearn to predict the accident severity. Categorical data will be 
+treated with Pandas get_dummies method. Rows with missing values will be dropped.
